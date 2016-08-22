@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<changelog>
+	<entry>
+		<changeDate>2013-06-12 17:24:36</changeDate>
+		<author><![CDATA[hople]]></author>
+		<file>
+			<name><![CDATA[aavella/HelloWorld.java]]></name>
+			<fullName><![CDATA[/auto/autons/CVSROOT/aavella/HelloWorld.java]]></fullName>
+			<revision>1.10</revision>
+		</file>
+		<file>
+			<name><![CDATA[aavella/Rtsp.java]]></name>
+			<fullName><![CDATA[/auto/autons/CVSROOT/aavella/Rtsp.java]]></fullName>
+			<revision>1.10</revision>
+		</file>
+		<file>
+			<name><![CDATA[aavella/Http.java]]></name>
+			<fullName><![CDATA[/auto/autons/CVSROOT/aavella/Http.java]]></fullName>
+			<revision>1.10</revision>
+		</file>
+		<msg><![CDATA[*** empty log message ***]]></msg>
+	</entry>
+</changelog>
+		<msg><![CDATA[*** empty log message ***]]></msg>
+	</entry>
+</changelog>
